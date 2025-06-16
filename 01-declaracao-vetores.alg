@@ -1,9 +1,8 @@
+algoritmo "DeclaracaoVetores"
 // 01-declaracao-vetores.alg
 // Disciplina : Algoritmos e Lógica de Programação
 // Professor  : Edson Orivaldo Lessa Junior
 // Descrição  : Exemplo de declaração de vetores com atribuição e exibição dos valores
-
-algoritmo "DeclaracaoVetores"
 
 var
    numeros   : vetor[1..5] de inteiro      // Vetor de números inteiros
